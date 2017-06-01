@@ -10,6 +10,7 @@ LangSnap is a language learning application that is empowered with modern techno
 
 # Wireframes
 
+![LangSnap Wireframes](./langsnap_wireframe.jpg?raw=true "Wireframes")
 
 ### Tech
 
